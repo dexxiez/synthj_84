@@ -305,8 +305,7 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="fe4450" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FOREGROUND" value="ff7edb" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -636,7 +635,7 @@
         </option>
         <option name="JS.EXPORTED.FUNCTION">
             <value>
-                <option name="FOREGROUND" value="36f9f6" />
+                <option name="FOREGROUND" value="ff7edb" />
             </value>
         </option>
         <option name="JS.EXPORTED.VARIABLE">
