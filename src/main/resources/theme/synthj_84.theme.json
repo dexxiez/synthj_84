@@ -1,0 +1,18 @@
+{
+  "name": "SynthJ '84",
+  "author": "Dexxiez",
+  "dark": true,
+  "editorScheme": "/tonight_on.xml",
+  "colors": {
+    "purple-dark": "#241b2f",
+    "purple-lavender": "#9963ff",
+    "pure-white": "#ffffff"
+  },
+  "ui": {
+    "*": {
+      "background": "purple-dark",
+      "foreground": "pure-white",
+      "separatorColor": "purple-lavender"
+    }
+  }
+}
