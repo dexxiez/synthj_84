@@ -1,9 +1,10 @@
 <scheme name="synthj_84" version="142" parent_scheme="Darcula">
     <option name="LINE_SPACING" value="1.0" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-    <option name="EDITOR_FONT_NAME" value="Iosevka" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Iosevka Semibold" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="LINE_SPACING" value="1.1" />
+    <option name="EDITOR_LIGATURES" value="true" />
 
     <option name="CONSOLE_FONT_NAME" value="Iosevka Extended" />
     <option name="CONSOLE_LINE_SPACING" value="1.1" />
@@ -12,10 +13,10 @@
         <option name="ANNOTATIONS_COLOR" value="8c8c8c" />
         <option name="CARET_COLOR" value="d21e85" />
         <option name="CARET_ROW_COLOR" value="" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="200933" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="241b2f" />
         <option name="DELETED_LINES_COLOR" value="36234e" />
         <option name="DOC_COMMENT_GUIDE" value="541f73" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="200933" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="262335" />
         <option name="ERROR_HINT" value="d1243b" />
         <option name="FILESTATUS_ADDED" value="c3e887" />
         <option name="FILESTATUS_COPIED" value="72f1b8" />
@@ -535,8 +536,9 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="36234e" />
+                <option name="FOREGROUND" value="ff00de" />
                 <option name="EFFECT_COLOR" value="9963ff" />
+                <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -635,12 +637,12 @@
         </option>
         <option name="JS.EXPORTED.FUNCTION">
             <value>
-                <option name="FOREGROUND" value="ff7edb" />
+                <option name="FOREGROUND" value="36f9f6" />
             </value>
         </option>
         <option name="JS.EXPORTED.VARIABLE">
             <value>
-                <option name="FOREGROUND" value="ff7edb" />
+                <option name="FOREGROUND" value="36f9f6" />
             </value>
         </option>
         <option name="JS.FUNCTION_ARROW">
@@ -651,7 +653,6 @@
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="36f9f6" />
-                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE">
@@ -695,7 +696,6 @@
         <option name="JS.LOCAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="36f9f6" />
-                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE">
@@ -977,8 +977,7 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ffffff" />
-                <option name="BACKGROUND" value="d21e85" />
+                <option name="FOREGROUND" value="ff00de" />
                 <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="4" />
             </value>
@@ -1153,7 +1152,7 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ff8b39" />
+                <option name="FOREGROUND" value="ff00de" />
                 <option name="FONT_TYPE" value="3" />
                 <option name="EFFECT_COLOR" value="ff8b39" />
                 <option name="ERROR_STRIPE_COLOR" value="ff8b39" />
@@ -1162,12 +1161,12 @@
         </option>
         <option name="TS.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="ff0000" />
+                <option name="FOREGROUND" value="36f9f6" />
             </value>
         </option>
         <option name="TS.TYPE.ALIAS">
             <value>
-                <option name="FOREGROUND" value="ff0000" />
+                <option name="FOREGROUND" value="fe4450" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">
@@ -1204,8 +1203,6 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="9963ff" />
-                <option name="ERROR_STRIPE_COLOR" value="8d4457" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
