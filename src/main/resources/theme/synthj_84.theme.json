@@ -12,7 +12,21 @@
     "*": {
       "background": "purple-dark",
       "foreground": "pure-white",
-      "separatorColor": "purple-lavender"
+      "separatorColor": "purple-lavender",
+
+      "MainToolbar": {
+        "foreground": "#171520",
+        "background": "#171520",
+        "fontSizeOffset.compact": -1
+      },
+
+      "ActionButton": {
+        "focusedBorderColor": "#5EACD0",
+        "hoverBackground": "#282828",
+        "hoverBorderColor": "#282828",
+        "pressedBackground": "#171520",
+        "pressedBorderColor": "#171520"
+      }
     }
   }
 }
